@@ -1,0 +1,6 @@
+==================
+-----20/10/23----
+=================
+Update : bootstrap Gulp jquery version (use latest versions)
+fix : resolve small small design issues for both responsive & fullscreen
+Dropped : the bootstrap 4 version's theme has been dropped 
